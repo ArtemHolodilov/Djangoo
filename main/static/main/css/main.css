@@ -1,0 +1,300 @@
+body {
+  background-color: #000
+}
+.main{
+  position: absolute;
+  top: -1%;
+  left: -1%;
+  height: 90%;
+  width: 101%;
+}
+.main p{
+  position: absolute;
+  top: 14%;
+  width: 30%;
+  float: center;
+  left: 10%;
+  font-size: 210px;
+  color: white;
+}
+.main img{
+  height: 100%;
+  width: 50%;
+  float: right;
+}
+.africa{
+ top: 100%;
+ position: absolute;
+ height: 70%;
+ width: 108%;
+ left: -8%;
+}
+.africa img{
+  height: 100%;
+  width: 55%;
+}
+.africa h1{
+  position: absolute;
+  top: 10%;
+  left: 55%;
+  font-size: 50px;
+  color: white;
+}
+.africa p1{
+  position: absolute;
+  top: 25%;
+  width: 40%;
+  float: justify;
+  left: 55%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.africa p2{
+  position: absolute;
+  top: 60%;
+  width: 40%;
+  float: justify;
+  left: 55%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.australia p1{
+  position: absolute;
+  top: 25%;
+  width: 50%;
+  float: justify;
+  left: 5%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.australia p2{
+  position: absolute;
+  top: 55%;
+  width: 50%;
+  float: justify;
+  left: 5%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+
+.australia{
+ top: 190%;
+ position: absolute;
+ height: 70%;
+ width: 100%;
+ left: 0%;
+}
+.australia img{
+  height: 100%;
+  width: 55%;
+  float: right;
+}
+.australia h1{
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  font-size: 50px;
+  color: white;
+}
+.antarctica{
+ top: 290%;
+ position: absolute;
+ height: 70%;
+ width: 100%;
+ left: 0%;
+}
+.antarctica img{
+  height: 100%;
+  width: 55%;
+}
+.antarctica h1{
+  position: absolute;
+  top: 5%;
+  left: 55%;
+  font-size: 50px;
+  color: white;
+}
+.antarctica p1{
+  position: absolute;
+  top: 23%;
+  width: 42%;
+  float: justify;
+  left: 55%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.antarctica p2{
+  position: absolute;
+  top: 65%;
+  width: 42%;
+  float: justify;
+  left: 55%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.northamerica{
+ top: 390%;
+ position: absolute;
+ height: 67%;
+ width: 100%;
+ left: 0%;
+}
+.northamerica img{
+  height: 100%;
+  width: 35%;
+  float: right;
+}
+.northamerica h1{
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  font-size: 50px;
+  color: white;
+}
+.northamerica p1{
+  position: absolute;
+  top: 30%;
+  width: 50%;
+  float: justify;
+  left: 5%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.northamerica p2{
+  position: absolute;
+  top: 60%;
+  width: 50%;
+  float: justify;
+  left: 5%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.southamerica{
+ top: 490%;
+ position: absolute;
+ height: 70%;
+ width: 100%;
+ left: 0%;
+}
+.southamerica img{
+  height: 100%;
+  width: 55%;
+}
+.southamerica h1{
+  position: absolute;
+  top: 5%;
+  left: 55%;
+  font-size: 50px;
+  color: white;
+}
+.southamerica p1{
+  position: absolute;
+  top: 23%;
+  width: 42%;
+  float: justify;
+  left: 55%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.southamerica p2{
+  position: absolute;
+  top: 55%;
+  width: 42%;
+  float: justify;
+  left: 55%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.eurasia{
+ top: 590%;
+ position: absolute;
+ height: 67%;
+ width: 100%;
+ left: 0%;
+}
+.eurasia img{
+  height: 100%;
+  width: 50%;
+  float: right;
+}
+.eurasia h1{
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  font-size: 50px;
+  color: white;
+}
+.eurasia p1{
+  position: absolute;
+  top: 30%;
+  width: 50%;
+  float: justify;
+  left: 5%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.eurasia p2{
+  position: absolute;
+  top: 60%;
+  width: 50%;
+  float: justify;
+  left: 5%;
+  font-size: 25px;
+  color: white;
+  height: 100%;
+}
+.end{
+  top: 671%;
+  width: 101%;
+  height: 0.1%;
+  background-color: #fff;
+  position: absolute;
+  left: -1%;
+}
+.end1{
+  top: 671.1%;
+  width: 101%;
+  height: 20%;
+  background-color: #000;
+  position: absolute;
+  left: -1%;
+}
+.end1 p1{
+  position: absolute;
+  top: 12%;
+  left: 3%;
+  font-size: 25px;
+  color: white;
+}
+.end1 p2{
+  position: absolute;
+  top: 12%;
+  left: 22%;
+  font-size: 25px;
+  color: white;
+}
+.romb{
+  height: 18%;
+  width: 6%;
+  float: right;
+  position: absolute;
+  left: 2%;
+  top: 36%;}
+.romb1{
+  height: 18%;
+  width: 6%;
+  float: right;
+  position: absolute;
+  left: 1%;
+  top: 678%;}
